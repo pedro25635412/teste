@@ -1,0 +1,42 @@
+MR model,Type,Coil,Helium Before,Helium After,Helium loss,Current,MPS,Comments,Cooling method
+Aera,Training,7F,75.5%,56.0%,19.5%,278.12 A,0476,Quench during 1st ramp down,Hub Cooler
+ESSENZA,Training,2A,74.0%,44.0%,30.0%,672.85 A,0476,Quench during 1st ramp,Hub Cooler
+ESSENZA,Training,5D,70.2%,43.0%,27.2%,687.72 A,0476,Quench during 2nd ramp,Hub Cooler
+Aera,Training,2A,64.8%,30.0%,34.8%,503.40 A,0476,Quench during 3rd ramp,Hub Cooler
+ESSENZA,Training,6E,69.6%,41.4%,28.2%,NA,0476,Quench during 1st ramp,Hub Cooler
+Aera,PMQ,2A,59.1%,29.0%,30.1%,NA,0460,Quench during 1st ramp,Hub Cooler
+Sempra,Training,6A,68.4%,39.4%,29.0%,566.30 A,0460,Quench during 1st ramp,Nitrogen
+ESSENZA,PMQ,2A,75.0%,39.9%,35.1%,685.20 A,0460,Quench during 1st ramp,Hub Cooler
+Aera,Training,3B,79.5%,36.0%,43.5%,471.19 A,0476,Quench during 1st ramp,Hub Cooler
+Spectra,Training,6F,76.5%,5.1%,71.4%,451.62 A,0476,Quench during 1st ramp,Hub Cooler
+Aera,Training,2A,84.2%,40.0%,44.2%,489.66 A,0476,Quench during 1st ramp,Hub Cooler
+Aera,Training,2A,62.1%,44.6%,17.5%,317.10 A,0476,Quench during 1st ramp,Hub Cooler
+Aera,Training,7F,91.2%,64.6%,26.6%,337.76 A,0476,Quench during 1st ramp,Hub Cooler
+Aera,Training,2A,75.1%,32.9%,42.2%,487.62 A,0476,Quench during 1st ramp,Hub Cooler
+Sempra,Training,4H,79.7%,40.0%,39.7%,528.60 A,0286,Quench during 1st ramp down,Nitrogen
+Aera,Training,2A,95.0%,54.8%,40.2%,411.60 A,0476,Quench during 1st ramp,Hub Cooler
+Aera,Training,1G,72.7%,35.2%,37.5%,491.70 A,0476,Quench during 1st ramp,Hub Cooler
+Aera,Training,7F,72.5%,36.0%,36.5%,486.20 A,0476,Quench during 1st ramp,Hub Cooler
+Aera,Training,8H,93.8%,37.2%,56.6%,499.50 A,0476,Quench during 1st ramp,Hub Cooler
+Aera,Training,2A,64.6%,36.4%,28.2%,455.40 A,0460,Quench during 1st ramp,Hub Cooler
+Aera,Training,2A,69.5%,33.4%,36.1%,511.28 A,0460,Quench during 1st ramp,Hub Cooler
+ESSENZA,PMQ,6E,70.0%,43.9%,26.1%,686.09 A,0476,Quench during 1st ramp,Hub Cooler
+ESSENZA,Training,2A,50.0%,36.1%,13.9%,685.50 A,0476,Quench during 1st ramp,Hub Cooler
+Aera,Training,2A,63.6%,43.6%,20.0%,296.10 A,0460,Quench during 1st ramp down,Nitrogen
+ESSENZA,Training,6E,66.7%,44.0%,22.7%,685.50 A,0460,Quench during 1st ramp,Hub Cooler
+ESSENZA,Training,2A,58.5%,41.6%,16.9%,685.70 A,0476,Quench during 1st ramp,Hub Cooler
+Aera,Training,1G,61.0%,35.6%,25.4%,452.50 A,0460,Quench during 1st ramp,Hub Cooler
+Aera,Training,7F,64.1%,46.0%,18.1%,327.00 A,0286,Quench during 1st ramp down,Hub Cooler
+Aera,Training,2A,85.4%,39.6%,45.8%,495.00 A,0286,Quench during 1st ramp,Hub Cooler
+Aera,Training,7F,70.3%,43.3%,27.0%,384.00 A,0286,Quench during 1st ramp,Hub Cooler
+Aera,Training,7F,68.4%,35.7%,32.7%,511.30 A,0286,Quench during 1st ramp,Hub Cooler
+Aera,Training,7F,60.0%,36.5%,23.5%,444.40 A,0286,Quench during 1st ramp,Hub Cooler
+Aera,Training,7F,60.6%,35.6%,25.0%,489.98 A,0286,Quench during 1st ramp,Hub Cooler
+ESSENZA,Training,7G,74.7%,44.3%,30.4%,657.50 A,0460,Quench during 1st ramp,Nitrogen
+Amira,Training,7F,67.1%,38.0%,29.1%,582.06 A,0460,Quench during 1st ramp,Hub Cooler
+Sempra,Training,2F,61.7%,42.8%,18.9%,526.70 A,0476,Quench during 1st ramp,Hub Cooler
+Sempra,Training,1A,65.3%,43.3%,22.0%,572.70 A,0460,Quench during 1st ramp,Hub Cooler
+Aera,Training,2A,60.2%,30.2%,30.0%,512.40 A,0476,Quench during 1st ramp,Nitrogen
+Aera,Training,2A,79.1%,54.2%,24.9%,333.40 A,0476,Quench during 1st ramp,Nitrogen
+ESSENZA,Training,7G,74.5%,43.3%,31.2%,656.72 A,0460,Quench during 1st ramp,Nitrogen
+ESSENZA,Training,2A,68.7%,40.7%,28.0%,688.30 A,0476,Quench during 1st ramp,Nitrogen
