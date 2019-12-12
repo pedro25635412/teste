@@ -38,6 +38,6 @@ Aera,Training,2A,0.60,0.30,0.30,512.40,0476,Quench during 1st ramp,Nitrogen
 Aera,Training,2A,0.79,0.54,0.25,333.40,0476,Quench during 1st ramp,Nitrogen
 ESSENZA,Training,7G,0.75,0.43,0.31,656.72,0460,Quench during 1st ramp,Nitrogen
 ESSENZA,Training,2A,0.69,0.41,0.28,688.30,0476,Quench during 1st ramp,Nitrogen
-Aera,Training,2A,79.10%,54.20%,24.90%,333.40 A,476,Quench during 1st ramp,Nitrogen
-ESSENZA,Training,7G,74.50%,43.30%,31.20%,656.72 A,460,Quench during 1st ramp,Nitrogen
-ESSENZA,Training,2A,68.70%,40.70%,28.00%,688.30 A,476,Quench during 1st ramp,Nitrogen
+Aera,Training,2A,79.10%,54.20,24.90,333.40,476,Quench during 1st ramp,Nitrogen
+ESSENZA,Training,7G,74.50,43.30,31.20,656.72,460,Quench during 1st ramp,Nitrogen
+ESSENZA,Training,2A,68.70,40.70,28.00,688.30,476,Quench during 1st ramp,Nitrogen
